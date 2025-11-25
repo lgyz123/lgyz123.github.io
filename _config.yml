@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Yizhao Guan"
 description              : &description "Yizhao Guan's website"
 url                      : "https://lgyz123.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/yizhao" # the subpath of your site, e.g. "/blog"
-repository               : "lgyz123/yizhao"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "lgyz123/lgyz123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
