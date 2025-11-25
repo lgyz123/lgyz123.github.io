@@ -63,6 +63,7 @@ Scholarship and Awards
  * Euspen talent programme 2022 certification of attendance
  * ASPEN 2022 Best Paper Award
  * ISMTII 2023 Best Paper Award
+ * 2025年工学系研究科長賞（研究）
 
 You can also download my cv
 ======
