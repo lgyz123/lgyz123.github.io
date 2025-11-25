@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "YIZHAO GUAN"
   avatar           : "profile.png"
-  bio              : "A trivial doctor student"
+  bio              : "ADAS developer"
   location         : "Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=2O38MIcAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=tns2M_MAAAAJ&hl=en"
+  email            : "guanyizhaoian@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
