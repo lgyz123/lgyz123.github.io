@@ -13,6 +13,7 @@ Work experience
 ======
 * Bosch corporation, 2024
   * XC department ADAS software developer
+  * Perception platform developer
 
 
 Education
@@ -28,7 +29,7 @@ Skills
 ======
 * Software
   * Microsoft Office, Solid works (Design software),Blender, Waveoptics simulations
-  * Coding: C Language, C++, Matlab, Python, Linux, Github, dev container, sklearn, pytorch
+  * Coding: C Language, C++, Matlab, Python, Linux, Github, dev container, sklearn, pytorch, CI/CD
 * Hardware
   * Measurements: Microscopy, AFM, SEM, interferometry
   * Fabrication: Semiconductor process
